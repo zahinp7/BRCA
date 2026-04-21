@@ -4,7 +4,7 @@ Machine learning pipeline for classifying breast cancer ER (Estrogen Receptor) s
 
 ## Overview
 
-This project builds and evaluates supervised classification models to predict ER status (Positive/Negative) from a high-dimensional multi-omics feature set including RNA-seq gene expression and reverse-phase protein array (RPPA) data. Four models are compared using cross-validation, ROC-AUC, and SHAP-based interpretability analysis.
+This project builds and evaluates supervised classification models to predict ER status (Positive/Negative) from a high dimensional multi omics feature set including RNA-seq gene expression and reverse-phase protein array (RPPA) data. Four models are compared using cross-validation, ROC-AUC, and SHAP-based interpretability analysis.
 
 ## Results
 
